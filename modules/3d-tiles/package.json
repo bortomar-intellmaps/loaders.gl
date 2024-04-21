@@ -34,11 +34,11 @@
     "build-bundle": "esbuild src/bundle.ts --bundle --outfile=dist/dist.min.js"
   },
   "dependencies": {
-    "@loaders.gl/draco": "3.4.15",
+    "@loaders.gl/draco": "https://gitpkg.now.sh/bortomar-intellmaps/loaders.gl/modules/draco?a3a83dc13401441ea35cae88d49bceebb15d7a38",
     "@loaders.gl/gltf": "3.4.15",
     "@loaders.gl/loader-utils": "3.4.15",
     "@loaders.gl/math": "3.4.15",
-    "@loaders.gl/tiles": "3.4.15",
+    "@loaders.gl/tiles": "https://gitpkg.now.sh/bortomar-intellmaps/loaders.gl/modules/draco?3.4-release",
     "@math.gl/core": "^3.5.1",
     "@math.gl/geospatial": "^3.5.1",
     "long": "^5.2.1"

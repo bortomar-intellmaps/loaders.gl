@@ -34,7 +34,7 @@
     "build-bundle": "esbuild src/bundle.ts --bundle --outfile=dist/dist.min.js"
   },
   "dependencies": {
-    "@loaders.gl/draco": "3.4.15",
+    "@loaders.gl/draco": "https://gitpkg.now.sh/bortomar-intellmaps/loaders.gl/modules/draco?3.4-release",
     "@loaders.gl/images": "3.4.15",
     "@loaders.gl/loader-utils": "3.4.15",
     "@loaders.gl/textures": "3.4.15",
